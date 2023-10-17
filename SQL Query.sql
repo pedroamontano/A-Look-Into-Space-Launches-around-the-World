@@ -27,7 +27,7 @@ where (country LIKE'%Japan%' AND mission_status= '0');
 -- 3.	Which is the country with the lowest percentage of failed launches?
 -- France
 -- 4.	Compare the USA launches to these 5 countries, do they have a lower percentage of failed launches or relatively the same?
--- Answered.
+-- Answered in README.
 -- 5.	Is there a correlation between the month of the launch and a successful or failed launch?
 select date, count(date) as month_failure from month_launch_status
 where mission_status= '0'
