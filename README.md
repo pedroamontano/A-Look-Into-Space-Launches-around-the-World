@@ -10,12 +10,12 @@ While the USA consistently maintains the highest number of launches since 1959, 
 Russia, Kazakhstan, France, China, and Japan.
 </br></br>
 - What is the percentage of failed launches for the USA and the next 5 countries from question No. 1?
-  - USA Failed/Total Launches= 163/1,349= 12.08%
-  - Russia Failed/Total Launches= 93/1,398= 6.65%
-  - Kazakhstan Failed/Total Launches= 93/701= 0.1326= 13.27%
-  - France Failed/Total Launches= 18/303= 0.0594= 5.94%
-  - China Failed/Total Launches= 25/269= 0.0965= 9.29%
-  - Japan Failed/Total Launches= 13/126= 0.1092= 10.31%
+ - USA Failed/Total Launches= 163/1,349= 12.08%
+ - Russia Failed/Total Launches= 93/1,398= 6.65%
+ - Kazakhstan Failed/Total Launches= 93/701= 0.1326= 13.27%
+ - France Failed/Total Launches= 18/303= 0.0594= 5.94%
+ - China Failed/Total Launches= 25/269= 0.0965= 9.29%
+ - Japan Failed/Total Launches= 13/126= 0.1092= 10.31%
 </br>
 USA has the second highest rate of failed launches. Kazakhstan has the highest rate.
 </br></br>
